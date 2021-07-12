@@ -8,7 +8,7 @@ Created tests using java for Petstore API (https://petstore.swagger.io/)
 File -->Import-->Maven-->Existing Maven Project
 
 # Steps to execute the test script:
-1.Find the RunCukesTest.java file and the following path in the project folder<br />
+1.Find the RunCukesTest.java file under the following path in the project folder<br />
 #src/test/java -->default package-->RunCukesTest.java <br />
 2.Rightclick on testng.xml and Run as-->TestNG Suite <br />
 3.The Reports can be obtained from 'target' Folder <br />
